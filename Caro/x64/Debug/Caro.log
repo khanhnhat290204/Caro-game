@@ -1,0 +1,5 @@
+﻿  Player.cpp
+  main.cpp
+  Generating Code...
+x64\Debug\Player.obj : warning LNK4042: object specified more than once; extras ignored
+  Caro.vcxproj -> D:\2251052081\visual studio\Caro\x64\Debug\Caro.exe
